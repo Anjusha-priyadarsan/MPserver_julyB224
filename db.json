@@ -1,0 +1,120 @@
+{
+  "allVideos": [
+    {
+      "id": "a51c",
+      "caption": "Nunakuzhi",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQzNGRmYWYtOWY5NS00M2Q5LWJlYWEtNjA2ODEwZTI5ZWRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/KHZb0WZijQs"
+    },
+    {
+      "id": "c03c",
+      "caption": "Amaran",
+      "imageUrl": "https://m.media-amazon.com/images/I/61l4F+4vu8L._AC_UF1000,1000_QL80_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+    },
+    {
+      "id": "1fc9",
+      "caption": "Avesham",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DPdfeuBM8O4bCRd57Lzh-JhVBqAcIdUxZw&s",
+      "youtubeUrl": "https://www.youtube.com/embed/yH7eDWTH5iM"
+    },
+    {
+      "id": "fff7",
+      "caption": "vazha",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "83f3",
+      "caption": "ARM",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-113501216,width-1280,height-720,resizemode-4/113501216.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+    },
+    {
+      "id": "9133",
+      "caption": "Nunakuzhi",
+      "imageUrl": "https://m.media-amazon.com/images/I/61l4F+4vu8L._AC_UF1000,1000_QL80_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/KHZb0WZijQs"
+    },
+    {
+      "id": "c898",
+      "caption": "Nunakuzhi",
+      "imageUrl": "https://m.media-amazon.com/images/I/61l4F+4vu8L._AC_UF1000,1000_QL80_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/KHZb0WZijQs"
+    },
+    {
+      "id": "a023",
+      "caption": "BougainVillea",
+      "imageUrl": "https://static.toiimg.com/photo/107820241.cms",
+      "youtubeUrl": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+    }
+  ],
+  "history": [
+    {
+      "id": "81f9",
+      "caption": "Avesham",
+      "youtubeUrl": "https://www.youtube.com/embed/yH7eDWTH5iM",
+      "formatedDate": "11/11/2024, 11:45:25 AM"
+    },
+    {
+      "id": "6d3b",
+      "caption": "ARM",
+      "youtubeUrl": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatedDate": "11/14/2024, 12:14:32 PM"
+    },
+    {
+      "id": "78d1",
+      "caption": "Avesham",
+      "youtubeUrl": "https://www.youtube.com/embed/yH7eDWTH5iM",
+      "formatedDate": "11/15/2024, 11:35:48 AM"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "d787",
+      "categoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "c63d",
+          "caption": "Amaran",
+          "imageUrl": "https://static.toiimg.com/photo/107820241.cms",
+          "youtubeUrl": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+        },
+        {
+          "id": "fff7",
+          "caption": "vazha",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU"
+        }
+      ]
+    },
+    {
+      "id": "a561",
+      "categoryName": "tutorilas",
+      "allVideos": [
+        {
+          "id": "c63d",
+          "caption": "Amaran",
+          "imageUrl": "https://static.toiimg.com/photo/107820241.cms",
+          "youtubeUrl": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+        },
+        {
+          "id": "a51c",
+          "caption": "Nunakuzhi",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQzNGRmYWYtOWY5NS00M2Q5LWJlYWEtNjA2ODEwZTI5ZWRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/KHZb0WZijQs"
+        }
+      ]
+    },
+    {
+      "id": "56d2",
+      "categoryName": "Hindi",
+      "allVideos": []
+    },
+    {
+      "id": "0d5b",
+      "categoryName": "albums",
+      "allVideos": []
+    }
+  ]
+}
